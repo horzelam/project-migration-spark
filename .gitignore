@@ -1,9 +1,27 @@
+
 *.class
 *.log
 
 # sbt specific
 .cache
 .history
+
+output*
+.settings/
+/logs/
+
+/project/project/
+/project/target/
+/target/
+/bin/
+
+
+
+
+checkpoint/
+# sbt specific
+
+
 .lib/
 dist/*
 target/
@@ -11,7 +29,21 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+	
 
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+#intellij
+.idea/
+.iml
+interactive_spark_benchmarks.iml
+#eclipse
+.project
+.classpath
+.cache
+

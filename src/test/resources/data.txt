@@ -1,0 +1,4 @@
+ala;test1;2015-08-16T01:22:05Z;{"field1": "asdas" , "updated_at":"2015-08-20T08:22:05Z"};1
+ala;test1;2015-08-16T01:22:05Z;{"field1": "asdas" , "updated_at":"2015-08-20T20:22:05Z"};3
+ala;test1;2015-08-16T01:22:05Z;{"field1": "asdas" , "updated_at":"2015-08-20T10:22:05Z"};2
+ala;test1;2015-09-16T03:22:05Z;{"field1": "asdas" , "updated_at":"2015-08-22T22:22:05Z"};1
